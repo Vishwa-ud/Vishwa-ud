@@ -9,9 +9,9 @@ I am Currently following a Bsc(Hons.) Information Technology Specializing In Sof
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,php)](https://skills.thijs.gg)
 [![My Skills](https://skills.thijs.gg/icons?i=c,cpp,py)](https://skills.thijs.gg)
 [![My Skills](https://skills.thijs.gg/icons?i=java,kotlin)](https://skills.thijs.gg)
-[![My Skills](https://skills.thijs.gg/icons?i=git,mysql,)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=mysql)](https://skills.thijs.gg)
 [![My Skills](https://skills.thijs.gg/icons?i=mongodb,express,react,nodejs)](https://skills.thijs.gg)
-[![My Skills](https://skills.thijs.gg/icons?i=visualstudio,vscode,idea,eclipse,arduino,)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=visualstudio,vscode,idea,eclipse,arduino,git)](https://skills.thijs.gg)
 
 
 
