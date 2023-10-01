@@ -11,7 +11,7 @@ I am Currently following a Bsc(Hons.) Information Technology Specializing In Sof
 [![My Skills](https://skills.thijs.gg/icons?i=java,kotlin)](https://skills.thijs.gg)
 [![My Skills](https://skills.thijs.gg/icons?i=mysql,sqlite)](https://skills.thijs.gg)
 [![My Skills](https://skills.thijs.gg/icons?i=mongodb,express,react,nodejs)](https://skills.thijs.gg)
-[![My Skills](https://skills.thijs.gg/icons?i=visualstudio,vscode,androidstudio,idea,eclipse,replit,arduino,git,figma,redux,postman,R)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=visualstudio,vscode,androidstudio,idea,eclipse,replit,arduino,git,figma,redux,postman,RStudio)](https://skills.thijs.gg)
 
 
 
