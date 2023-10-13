@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+new+roman&size=25&pause=1000&color=24F0FF&background=FF040400&center=true&width=435&lines=Hi!;Welcome+To+My+GIT+HUB+Profile+;I'm+Vishwa+Udayantha;Full+Stack+Developer;SLIIT+Undergraduate+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=4F15F7&center=true&random=false&width=435&lines=HI..;WELCOME+TO+MY+GIT+HUB.;I'M+VISHWA+UDAYANTHA+KURUPPU.;FULL+STACK+DEVELOPER.;SLIIT+UNDERGRADUATE." alt="Typing SVG" /></a>
 
 # 💫About Me :
 I am Vishwa Udayantha from Colombo,Sri Lanka.
