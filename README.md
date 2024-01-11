@@ -17,7 +17,6 @@ I am Currently following a Bsc(Hons.) Information Technology Specializing In Sof
 ![](https://github-readme-stats.vercel.app/api?username=Vishwa-ud&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Vishwa-ud&theme=highcontrast&hide_border=false)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwa-ud&theme=highcontrast&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwa-ud&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 ---
