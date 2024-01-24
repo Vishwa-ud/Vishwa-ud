@@ -1,6 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&center=true&color=F7F7F7&random=false&width=435&lines=HI..;WELCOME+TO+MY+GIT+HUB.;I+AM+VISHWA+UDAYANTHA+.;FULL+STACK+DEVELOPER.;SLIIT+UNDERGRADUATE." alt="Typing SVG" /></a>
 
-
 # 💫About Me :
 I am Vishwa Udayantha from Colombo,Sri Lanka.
 I am Currently following a Bsc(Hons.) Information Technology Specializing In Software Engineering degree in  Sri Lanka Institute of Information Technology (SLIIT).
