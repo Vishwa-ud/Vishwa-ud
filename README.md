@@ -5,8 +5,7 @@ I am Vishwa Udayantha from Colombo,Sri Lanka.
 I am Currently following a Bsc(Hons.) Information Technology Specializing In Software Engineering degree in  Sri Lanka Institute of Information Technology (SLIIT).
 
 # 💻Tech Stack
-![image]([{https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white})
-![image]({https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white})
+
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Vishwa-ud&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
