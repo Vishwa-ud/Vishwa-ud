@@ -5,7 +5,7 @@ I am Vishwa Udayantha from Colombo,Sri Lanka.
 I am Currently following a Bsc(Hons.) Information Technology Specializing In Software Engineering degree in  Sri Lanka Institute of Information Technology (SLIIT).
 
 # 💻Tech Stack
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,php)](https://skills.thijs.gg)
+[![My Skills](https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png)](https://skills.thijs.gg)
 [![My Skills](https://skills.thijs.gg/icons?i=c,cpp,py)](https://skills.thijs.gg)
 [![My Skills](https://skills.thijs.gg/icons?i=java,kotlin)](https://skills.thijs.gg)
 [![My Skills](https://skills.thijs.gg/icons?i=mysql,sqlite)](https://skills.thijs.gg)
