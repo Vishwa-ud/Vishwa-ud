@@ -72,6 +72,7 @@ I am Currently following a Bsc(Hons.) Information Technology Specializing In Sof
 
 <br/>
 [![](https://visitcount.itsvg.in/api?id=Vishwa-ud&icon=5&color=6)](https://visitcount.itsvg.in)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 <div align="right">
     <img src="https://komarev.com/ghpvc/?username=Vishwa-ud&style=for-the-badge" alt="Profile Views">
 </div>
