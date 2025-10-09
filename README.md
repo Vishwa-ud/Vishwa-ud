@@ -4,19 +4,6 @@
 I am Vishwa Udayantha from Colombo,Sri Lanka.
 I am Currently following a Bsc(Hons.) Information Technology Specializing In Software Engineering degree in  Sri Lanka Institute of Information Technology (SLIIT).
 
-<div align="center">
-
-![Issues](https://img.shields.io/github/issues/Mozilla-Campus-Club-of-SLIIT/official-web?style=for-the-badge&logo=github&logoColor=white&color=red)
-![Pull Requests](https://img.shields.io/github/issues-pr/Mozilla-Campus-Club-of-SLIIT/official-web?style=for-the-badge&logo=github&logoColor=white&color=blue)
-![Contributors](https://img.shields.io/github/contributors/Mozilla-Campus-Club-of-SLIIT/official-web?style=for-the-badge&logo=github&logoColor=white&color=green)
-![Stars](https://img.shields.io/github/stars/Mozilla-Campus-Club-of-SLIIT/official-web?style=for-the-badge&logo=github&logoColor=white&color=yellow)
-
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-
-</div>
-
 # 💻Tech Stack
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP" title="HTTP"/></code>
