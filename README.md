@@ -1,10 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&center=true&color=F7F7F7&random=false&width=435&lines=HI..;WELCOME+TO+MY+GIT+HUB.;I+AM+VISHWA+UDAYANTHA+.;FULL+STACK+DEVELOPER.;SLIIT+UNDERGRADUATE." alt="Typing SVG" /></a>
 
-![Architecture](https://img.shields.io/badge/Architecture-Microservices-blue)
-![Frontend](https://img.shields.io/badge/Frontend-React%2018-61dafb)
-![Backend](https://img.shields.io/badge/Backend-Spring%20Boot%203.2-6db33f)
-![Database](https://img.shields.io/badge/Database-MySQL%208.0-4479a1)
-![Docker](https://img.shields.io/badge/Docker-Containerized-2496ed)
 
 # 💫About Me :
 I am Vishwa Udayantha from Colombo,Sri Lanka.
