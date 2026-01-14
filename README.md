@@ -63,10 +63,10 @@ I am Currently following a Bsc(Hons.) Information Technology Specializing In Sof
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Vishwa-ud&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Vishwa-ud&theme=highcontrast&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwa-ud&theme=highcontrast&layout=compact)
+![Top Langs](https://github-readme-stats.herokuapp.com/api/top-langs/?username=Vishwa-ud&theme=highcontrast&layout=compact)
 
 # 🏆GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Vishwa-ud)](https://github.com/Vishwa-ud/github-profile-trophy)
+[![trophy](https://github-profile-trophy.herokuapp.com/?username=Vishwa-ud)](https://github.com/Vishwa-ud/github-profile-trophy)
 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
