@@ -2,7 +2,7 @@
 
 
 # 💫About Me :
-I am Vishwa Udayantha from Colombo,Sri Lanka.
+I am Vishwa Kuruppu from Colombo,Sri Lanka.
 I am Currently following a Bsc(Hons.) Information Technology Specializing In Software Engineering degree in  Sri Lanka Institute of Information Technology (SLIIT).
 
 # 💻Tech Stack
